@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bfb6d32-385c-4d2c-9874-732e2ec982eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duke.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/Duke.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-T17/__MACOSX/._T9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Duke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StdDraw.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MAakh72C42GNbyvQffbcC9JDCD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Duke/Duke"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Duke\Duke" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Duke\Duke" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bfb6d32-385c-4d2c-9874-732e2ec982eb" name="Changes" comment="" />
+      <created>1677212988234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677212988234</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Duke$Duke.ic" NAME="Duke Coverage Results" MODIFIED="1677213935222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
